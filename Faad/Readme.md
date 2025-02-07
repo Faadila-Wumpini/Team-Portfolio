@@ -1,3 +1,3 @@
-this is my project
-Hey! this is your boss
-I am who i think I am
+Faadila here,
+my team members and I will introduce ourselves 
+From the Project manager, to the Quality assurance
